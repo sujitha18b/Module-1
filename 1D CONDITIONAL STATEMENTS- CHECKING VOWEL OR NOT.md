@@ -1,31 +1,43 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- Even or Odd and greater than 25 or not
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+
+To write a Python program to check whether the given number is Even number and it is greater than or equal to 25 or not using nested if..else.
+
 ## ALGORITHM  
-1. Begin the program.  
-2. Take a character input from the user
-3. Convert the character to lowercase
-4. Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
-5. If it is a vowel, display "The given character is a vowel"
-6. Otherwise, display "The given character is NOT a vowel"
-4. Terminate the program.
+
+1. Take input from the user.
+
+2.Check if the number is even (number % 2 == 0).
+
+3.If yes, check if it's greater than or equal to 25.
+
+4.If yes, print "Even and greater than or equal to 25".
+
+5.Else, print "Even but less than 25".
+
+6.Else, print "Odd number".
+
+
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
 
-char = input("Enter a character: ")
-char_lower = char.lower()
+num = int(input( ))  <br />
 
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
-else:
-    print("The given character is NOT a vowel")
-```
+if num % 2 == 0:   <br />
+    print(f"{num} is an Even number")   <br />
+    if num >= 25:   <br />
+        print(f"{num} is greater than or equal to 25")   <br />
+    else:   <br />
+        print(f"{num} is lesser than 25")   <br />
+else:   <br />
+    print(f"{num} is NOT an Even number")
+
+
 
 ## OUTPUT
 
+![Screenshot 2025-04-29 111515](https://github.com/user-attachments/assets/dd893169-a19d-4ac1-a073-abe7f12d3fbe)
+
 ## RESULT
+Thus, the Python program to check whether the given number is Even number and it is greater than or equal to 25 or not using nested if..else. is implemented and executed sucessfully.
