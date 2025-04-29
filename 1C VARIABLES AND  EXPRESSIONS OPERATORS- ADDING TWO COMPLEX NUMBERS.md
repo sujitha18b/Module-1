@@ -20,7 +20,8 @@ print(f"B is {b}")  <br />
 print(f"Sum is {a+b}") 
 
 ## OUTPUT
-![Screenshot 2025-04-29 102521](https://github.com/user-attachments/assets/9a37a8b0-335e-481e-b0d0-b9224185915f)
+![Screenshot 2025-04-29 110224](https://github.com/user-attachments/assets/1503d74c-c182-4755-a7c5-3c7ea8e264ad)
+
 
 
 ## RESULT
