@@ -17,7 +17,8 @@ num3 = 789  <br />
 print(num1, num2, num3)
 
 ## OUTPUT
-![Screenshot 2025-04-29 102521](https://github.com/user-attachments/assets/7499e485-2c52-4f75-8134-b2710d1f960e)
+![Screenshot 2025-04-29 105713](https://github.com/user-attachments/assets/3af25610-86c7-4d57-bc28-babdc0e99d66)
+
 
 ## RESULT
 Thus,the given program is implemented and the output is verified sucessfully.
