@@ -11,15 +11,16 @@ To write a Python program for adding two complex numbers, and get the user input
 5. Print the sum of the two complex numbers.
 6. Terminate the program.
 
-## PROGRAM
-```python
-# Reg.No-
-#Name-
-#Write your code here
+## PROGRAM 
 
-```
+a = eval()  <br />
+b = eval()   <br />
+print(f"A is {a}")  <br />
+print(f"B is {b}")  <br />
+print(f"Sum is {a+b}") 
 
 ## OUTPUT
+![Screenshot 2025-04-29 102521](https://github.com/user-attachments/assets/9a37a8b0-335e-481e-b0d0-b9224185915f)
 
 
 ## RESULT
